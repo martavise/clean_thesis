@@ -1,2 +1,14 @@
 # clean_thesis
 source code used for the experimental part of the thesis "TDA technologies on fMRI what topology can tell us about data"
+
+
+## environment requirements
+- Python (>= 3.6)
+- NumPy (>= 1.19.1)
+- SciPy (>= 1.5.0)
+- joblib (>= 0.16.0)
+- scikit-learn (>= 0.23.1)
+- pyflagser (>= 0.4.1)
+- python-igraph (>= 0.8.2)
+- plotly (>= 4.8.2)
+- ipywidgets (>= 7.5.1)
